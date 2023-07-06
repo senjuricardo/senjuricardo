@@ -1,7 +1,8 @@
 ### Hi there, i'm Ricardo Sousa 👋
 
 
-- 🌱 I’m currently learning C Sharp, PHP, and mySql
+- 🌱 I am an enthusiastic learner of programming with knowledge of C Sharp, SQL, Laravel, JS, Vue and React.
+I mainly enjoy frontend and that's where I try to dedicate most of my free time to develop more knowledge.
 
 <div align="center">
   <a href="https://github.com/senjuricardo">
