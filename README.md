@@ -1,7 +1,7 @@
 ### Hi there, i'm Ricardo Sousa 👋
 
 
-- 🌱 I am an enthusiastic learner of programming with knowledge of C Sharp, SQL, Laravel, JS, Vue and React.
+- 🌱 I am an enthusiastic learner of programming with knowledge of C Sharp, JAVA, SQL, Laravel, JS, Vue and React.
 I mainly enjoy frontend and that's where I try to dedicate most of my free time to develop more knowledge.
 
 <div align="center">
